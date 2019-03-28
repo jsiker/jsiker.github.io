@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JonSiker</title>
-    <link>https://jsiker.github.io/</link>
-    <description>Recent content on JonSiker</description>
+    <title>Posts on JonSiker</title>
+    <link>https://jsiker.github.io/post/</link>
+    <description>Recent content in Posts on JonSiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2019 21:31:47 -0700</lastBuildDate>
     
-	<atom:link href="https://jsiker.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jsiker.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
